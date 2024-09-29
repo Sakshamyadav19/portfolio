@@ -14,7 +14,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://portfolio-gold-zeta-51.vercel.app/).
 
 ---
 
