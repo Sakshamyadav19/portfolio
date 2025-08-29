@@ -3,7 +3,6 @@
 import * as React from 'react';
 
 function ProjectCard({ project }) {
-
   return (
     <div className="from-[#0d1224] border-[#1b2c68a0] relative rounded-lg border bg-gradient-to-r to-[#0a0d37] w-full">
       <div className="flex flex-row">
@@ -54,7 +53,7 @@ function ProjectCard({ project }) {
           </div>
           <div>
             <span className="ml-4 lg:ml-8 mr-2 text-white">Link:</span>
-            <span className="text-orange-400"><a href={project.demo}>Click Me!</a></span>
+            <span className="text-orange-400"><a href={project.code}>Click Me!</a></span>
             <span className="text-gray-400">,</span>
           </div>
           <div className="ml-4 lg:ml-8 mr-2">
