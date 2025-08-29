@@ -17,7 +17,10 @@ export const skillsData = [
   'Python',
   'Firebase',
   'MaterialUI',
-  'C++'
+  'C++',
+  'GEN AI',
+  'LangChain',
+  'AI/ML',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
